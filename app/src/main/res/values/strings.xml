@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">TFFI Feeder</string>
-    <string name="feed_and_find">Feed and Find:</string>
+    <string name="feed_and_find"><b>Feed and Find:</b>\nA pet monitoring system on\nembedded feeder technology.</string>
     <string name="a_pet_monitoring_system_on_nembedded_collar_technology">A pet monitoring system on\nembedded feeder technology.</string>
 </resources>
