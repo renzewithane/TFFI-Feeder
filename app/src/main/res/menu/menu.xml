@@ -38,7 +38,7 @@
                 <item
                     android:id="@+id/nav_feeder"
                     android:icon="@drawable/ic_feeder"
-                    android:title="@string/strFeeder"/>
+                    android:title="@string/strFinder"/>
                 <item
                     android:id="@+id/nav_logout"
                     android:icon="@drawable/ic_logout"

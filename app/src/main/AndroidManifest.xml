@@ -12,21 +12,21 @@
         android:theme="@style/Theme.TFFIFeeder"
         tools:targetApi="31">
         <activity
-<<<<<<< Updated upstream
             android:name=".Dashboard"
-=======
-            android:name=".profile_yana"
->>>>>>> Stashed changes
-            android:exported="false" />
+            android:exported="true"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".PetInfo"
-            android:exported="false" />
+            android:exported="true"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".Home"
-            android:exported="false" />
+            android:exported="true"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

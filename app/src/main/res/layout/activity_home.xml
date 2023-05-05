@@ -80,7 +80,6 @@
                             android:textSize="20sp"
                             android:textStyle="bold" />
 
-<<<<<<< Updated upstream
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -92,17 +91,6 @@
                     </LinearLayout>
 
                     <androidx.cardview.widget.CardView
-=======
-                <androidx.cardview.widget.CardView
-                    android:layout_width="110dp"
-                    android:layout_height="110dp"
-                    android:layout_marginStart="-280dp"
-                    android:layout_marginTop="10dp"
-                    app:cardCornerRadius="100dp">
-
-                    <ImageView
-                        android:id="@+id/imageView"
->>>>>>> Stashed changes
                         android:layout_width="110dp"
                         android:layout_height="110dp"
                         android:layout_marginStart="-280dp"
