@@ -12,7 +12,11 @@
         android:theme="@style/Theme.TFFIFeeder"
         tools:targetApi="31">
         <activity
+<<<<<<< Updated upstream
             android:name=".Dashboard"
+=======
+            android:name=".profile_yana"
+>>>>>>> Stashed changes
             android:exported="false" />
         <activity
             android:name=".PetInfo"
