@@ -2,4 +2,6 @@
     <string name="app_name">TFFI Feeder</string>
     <string name="feed_and_find">Feed and Find:</string>
     <string name="a_pet_monitoring_system_on_nembedded_collar_technology">A pet monitoring system on\nembedded feeder technology.</string>
+    <string name="name_yana">Name: Yana</string>
+    <string name="device_id_002">Device ID: 002</string>
 </resources>
