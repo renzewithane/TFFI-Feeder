@@ -88,13 +88,15 @@
             <ImageView
                 android:layout_width="364dp"
                 android:layout_height="175dp"
-                android:scaleType="centerInside"
-                android:src="@drawable/logo"
                 android:padding="16dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/cn_logos"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.489"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/aboutText" />
+                app:layout_constraintTop_toBottomOf="@+id/aboutText"
+                app:layout_constraintVertical_bias="0.0" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>
