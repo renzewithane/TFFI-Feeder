@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class add_pet extends AppCompatActivity {
+public class AddPet extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
