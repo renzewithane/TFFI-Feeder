@@ -19,6 +19,14 @@
             android:exported="true"
             android:screenOrientation="portrait" />
         <activity
+            android:name=".Credits"
+            android:exported="true"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".About"
+            android:exported="true"
+            android:screenOrientation="portrait"/>
+        <activity
             android:name=".PetInfo"
             android:exported="true"
             android:screenOrientation="portrait" />
