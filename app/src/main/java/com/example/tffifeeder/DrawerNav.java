@@ -54,7 +54,6 @@ public class DrawerNav extends AppCompatActivity implements NavigationView.OnNav
 
             case R.id.nav_about:
                 startActivity(new Intent(DrawerNav.this, About.class));
-                Toast.makeText(DrawerNav.this, "About", Toast.LENGTH_SHORT).show();
 
                 break;
 
